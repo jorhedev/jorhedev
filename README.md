@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi 👋
 
-# 💫 About Me:
+# 💫 Sobre mi:
 🔭 Actualmente estoy trabajando en: Aplicando mis habilidades de Front-End en proyectos personales para mejorar mi cartera. Además, estoy abierto a nuevas posibilidades y desafíos en el ámbito del desarrollo Front-End.<br><br>👯 Estoy buscando colaborar en: Proyectos de desarrollo web emocionantes que involucren el diseño de interfaces de usuario atractivas.<br><br>🤝 Estoy buscando ayuda con: Fortalecer mis habilidades de diseño y animación para crear experiencias de usuario más impactantes.<br><br>🌱 Actualmente estoy aprendiendo: Flutter para ampliar mis habilidades en el desarrollo multiplataforma.<br><br>💬 Pregúntame sobre: Tendencias actuales en diseño web y las mejores prácticas para crear interfaces de usuario intuitivas y receptivas.<br><br>⚡ Dato curioso: Soy un apasionado del running y he participado en varias maratones.
 
 
